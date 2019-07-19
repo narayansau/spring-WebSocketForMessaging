@@ -1,4 +1,4 @@
-package com.example.WebSocketForMessaging.Entity;
+package com.example.ActuatorWithWebSocketForMessaging.Entity;
 
 import  lombok.Data;
 

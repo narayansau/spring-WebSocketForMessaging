@@ -1,4 +1,4 @@
-package com.example.WebSocketForMessaging.Configuration;
+package com.example.ActuatorWithWebSocketForMessaging.Configuration;
 
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.annotation.Configuration;

@@ -1,4 +1,4 @@
-package com.example.WebSocketForMessaging.Configuration;
+package com.example.ActuatorWithWebSocketForMessaging.Configuration;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;

@@ -1,11 +1,10 @@
-package com.example.WebSocketForMessaging.EventHandler;
+package com.example.ActuatorWithWebSocketForMessaging.EventHandler;
 
 
-import com.example.WebSocketForMessaging.Configuration.ToDoProperties;
-import com.example.WebSocketForMessaging.Entity.ToDo;
+import com.example.ActuatorWithWebSocketForMessaging.Configuration.ToDoProperties;
+import com.example.ActuatorWithWebSocketForMessaging.Entity.ToDo;
 import org.slf4j.LoggerFactory;
 import org.slf4j.Logger;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.rest.core.annotation.HandleAfterCreate;
 import org.springframework.data.rest.core.annotation.RepositoryEventHandler;
 import org.springframework.messaging.simp.SimpMessagingTemplate;
